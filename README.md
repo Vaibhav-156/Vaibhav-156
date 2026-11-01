@@ -12,15 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Vaibhav-156&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vaibhav-156&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Vaibhav-156&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Vaibhav-156/Vaibhav-156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
